@@ -6,3 +6,6 @@ Dns relay server is between the local server and remote dns server, it has three
 
 ## how to start
 Set the local default DNS to 127.0.0.1, close IPv6, and check whether the browser, nslookup, ping, etc. cannot be connected. After confirming that the DNS is invalid, run the program directly, and check whether the browser, nslookup, ping, etc. can be connected
+
+## reference
+RFC 1034 1035
